@@ -1,2 +1,0 @@
-args {arrray<>}
-funcionalidades kotlin
